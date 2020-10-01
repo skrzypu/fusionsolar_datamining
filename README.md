@@ -22,3 +22,8 @@ https://pandas.pydata.org/ <-- library to work with data. Should be used to work
 https://www.home-assistant.io/ <-- use to store data and read information about home
 https://jupyter.org/index.html <-- use to generate reports with solar gathering data
 
+## Other connected things
+Collect data from heat pomp (Panasonic)
+Example projects: https://github.com/lsochanowski/Aquarea2mqtt  
+  
+TODO: Need find other projects, is there an open API?
