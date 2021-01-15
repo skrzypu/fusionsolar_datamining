@@ -1,0 +1,7 @@
+{
+    "terminal.integrated.inheritEnv": true,
+    "lldb.launch.sourceLanguages": [
+    "swift"
+    ],
+    "lldb.library": "~/swiftbin/usr/lib"
+}
