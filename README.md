@@ -7,15 +7,13 @@ First will be created under linux, later other platforms, when all libraries/pac
 Please check Package.swift about dependencies.
 
 ## Status
+On-Hold other projects need be done first
 It do nothing. Just reads yaml configuration
 
 ## Running
 After compilation copy file from Resources to place where binary is.  
 Update with correct password and user.
 
-
-# OLD Idea. Python will not be done for now
-This is project to collect and process data from FusionSolar inverter from Huaweii
 
 Project is done in python
 
